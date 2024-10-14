@@ -8,8 +8,8 @@
 
 <!-- ## Projects
 Here are some projects I'm working on:
-- [Personal portfolio](link_to_project) - Brief description of what this project does.
-- [Your Game Studio: ENVY](link_to_your_studio) - Aiming to create engaging gaming experiences. -->
+- [Personal portfolio](link_to_project) - ill add it after completion
+- [ENVY](link_to_your_studio) - its still a long way to go -->
 
 ## Get in Touch
 - 📫 Email: [ixklaim@gmail.com](mailto:ixklaim@gmail.com)
