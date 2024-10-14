@@ -7,7 +7,6 @@ I am an aspiring architect and passionate game developer from India, dedicated t
 - 📚 **Interests**: Enjoy reading novels, especially in the philosophical genre, and discussing movies, memes, and startups for hours!
 
 
-- **Tools**: Unity, Unreal Engine, Blender, Photoshop
 
 ## 🛠 Tech Stack
 
