@@ -1,26 +1,38 @@
-# Hi there, I'm Punit Bhardwaj 👋
+# Hello, I'm Punit Bhardwaj! 👋
 
-## About Me
-- 🎓 Aspiring architect and game developer
-- 🎮 Passionate about game design and development
-- 📚 Enjoy reading novels and philosophical literature
-- 💻 Skills: HTML, CSS, JavaScript, Python
+### 🌟 About Me
+I am an aspiring architect and passionate game developer from India, dedicated to creating immersive gaming experiences. With a background in architecture, I bring a unique perspective to game design, focusing on creating visually stunning and engaging worlds.
 
-<!-- ## Projects
-Here are some projects I'm working on:
-- [Personal portfolio](link_to_project) - ill add it after completion
-- [ENVY](link_to_your_studio) - its still a long way to go -->
+- 🎮 **Current Focus**: Developing a 2D multiplayer action game and building my gaming studio called **ENVY**.
+- 📚 **Interests**: Enjoy reading novels, especially in the philosophical genre, and discussing movies, memes, and startups for hours!
 
-## Get in Touch
-- 📫 Email: [ixklaim@gmail.com](mailto:ixklaim@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ipunitbhardwaj)
-- 🌐 [Twitter/X](https://x.com/iXklaim)
+### 🚀 Skills
+- **Languages**: HTML, CSS, JavaScript, Python, c#, GDscript...
+- **Tools**: Unity, Unreal Engine, Blender, Photoshop
+- **Specialties**: Game development, full-stack development, architectural design
+<!---
+### 💼 Projects
+Here are some of my key projects:
+- **[Your Project Name](link_to_project)**: A brief description of what this project does.
+- **[Your Game Studio: ENVY](link_to_your_studio)**: Aiming to create engaging gaming experiences with innovative gameplay mechanics.
+- **[Your Architectural Work](link_to_architecture_project)**: Showcase of my architectural projects, designs, and achievements.
+-->
+### 🌐 Connect with Me
+- 📧 Email: [ixklaim@gmail.com](mailto:ixklaim@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ipunitbhardwaj)
+- 🌐 [Portfolio](link_to_your_portfolio)
+- 🐦 [Twitter](https://x.com/iXklaim)
 - 🌐 [Instagram](https://instagram.com/iXklaim)
 - 🌐 [Instagram](https://instagram.com/ipunitbhardwaj)
 
-## Tech Stack
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Tools**: Unity, Unreal Engine, Blender, Photoshop
+### 🎯 Fun Fact
+I can talk about game development, movies, and startups for hours! I'm always up for a good discussion, so feel free to reach out!
 
-## Fun Fact
-- I can talk about movies, memes, and startups for hours! 🎬😄
+### 🔧 To-Do List
+- [ ] Complete development of my 2D multiplayer action game.
+- [x] Publish my architectural portfolio.
+- [ ] Learn more about Python and asynchronous programming.
+
+---
+
+Thanks for visiting my profile! Looking forward to connecting with fellow developers and architects. Let's collaborate and create something amazing! 🚀
