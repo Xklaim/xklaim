@@ -1,24 +1,25 @@
 # Hello, I'm Punit Bhardwaj! 👋
 
 ### 🌟 About Me
-I am an aspiring architect and passionate game developer from India, dedicated to creating immersive gaming experiences. With a background in architecture, I bring a unique perspective to game design, focusing on creating visually stunning and engaging worlds.
+I am an aspiring programmer and passionate game and web-developer from Earth, dedicated to creating immersive gaming and web experiences. With a background in architecture, I bring a unique perspective to game design, focusing on creating visually stunning and engaging worlds.
 
-- 🎮 **Current Focus**: Developing a 2D multiplayer action game and building my gaming studio called **ENVY**.
-- 📚 **Interests**: Enjoy reading novels, especially in the philosophical genre, and discussing movies, memes, and startups for hours!
+- 🎮 **Current Focus**: Currently focusing on developing my skills in game-dev.
+- 📚 **Interests**: Enjoy reading novels, especially in the philosophical genre, and discussing movies, memes, and startups for hours, and sometimes, i **write** too!
 
 
 
 ## 🛠 Tech Stack
 
 ### Languages  
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Tools
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
@@ -34,13 +35,13 @@ I am an aspiring architect and passionate game developer from India, dedicated t
 - Game Development
 - Full-stack Development
 - Architectural Design
-
+---
 <!---
 ### 💼 Projects
 Here are some of my key projects:
-- **[Your Project Name](link_to_project)**: A brief description of what this project does.
-- **[Your Game Studio: ENVY](link)**: Aiming to create engaging gaming experiences with innovative gameplay mechanics.
-- **[Your Architectural Work](link_to_architecture_project)**: Showcase of my architectural projects, designs, and achievements.
+- **[Your Project Name](link_to_project)**: i will upload a project here
+- **[Your Game Studio: ENVY](link)**: Aiming to create engaging gaming experiences with innovative gameplay mechanics...or you know something like that..
+- **[Your Architectural Work](link_to_architecture_project)**: ill upload this once it is completed
 -->
 
 ### 🌐 Connect with Me
@@ -52,7 +53,7 @@ Here are some of my key projects:
 - 📷 [Instagram](https://instagram.com/ipunitbhardwaj)
 
 ### 🎯 Fun Fact
-I can talk about game development, movies, and startups for hours! I'm always up for a good discussion, so feel free to reach out!
+> I can talk about game development, movies, and startups for hours! I'm always up for a good discussion, so feel free to reach out!
 
 ### 🔧 To-Do List
 - [ ] Complete development of my 2D multiplayer action game.
@@ -63,4 +64,5 @@ I can talk about game development, movies, and startups for hours! I'm always up
 
 Thanks for visiting my profile! Looking forward to connecting with fellow developers and architects. Let's collaborate and create something amazing! 🚀
 
-![Static Badge](https://img.shields.io/badge/Made_with_❤️-by_Punit_Bhardwaj-black)
+![Static Badge](https://img.shields.io/badge/Made_with_❤️-by_Punit_Bhardwaj-black) <br/>
+![Static Badge](https://img.shields.io/badge/or_simply-Xklaim-black)
