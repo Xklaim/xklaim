@@ -6,10 +6,9 @@ I am an aspiring architect and passionate game developer from India, dedicated t
 - 🎮 **Current Focus**: Developing a 2D multiplayer action game and building my gaming studio called **ENVY**.
 - 📚 **Interests**: Enjoy reading novels, especially in the philosophical genre, and discussing movies, memes, and startups for hours!
 
-### 🚀 Skills
+
 - **Languages**: HTML, CSS, JavaScript, Python, c#, GDscript...
 - **Tools**: Unity, Unreal Engine, Blender, Photoshop
-- **Specialties**: Game development, full-stack development, architectural design
 
 ## 🛠Tech Stack
 
@@ -23,19 +22,21 @@ I am an aspiring architect and passionate game developer from India, dedicated t
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 ### Tools
 <a href ="">
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
-<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
-
 <br/>
+
+### 🚀Specialties
+- Game Development
+- Full-stack Development
+- Architecturtal Design
+
+
 <!---
 ### 💼 Projects
 Here are some of my key projects:
