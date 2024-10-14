@@ -63,3 +63,5 @@ I can talk about game development, movies, and startups for hours! I'm always up
 ---
 
 Thanks for visiting my profile! Looking forward to connecting with fellow developers and architects. Let's collaborate and create something amazing! 🚀
+
+![Static Badge](https://img.shields.io/badge/Made_with_❤️-by_Punit_Bhardwaj-black)
