@@ -30,6 +30,7 @@ I am an aspiring programmer and passionate game and web-developer from Earth, de
 <img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=13677&format=png&color=000000 />
 <img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=65231&format=png&color=000000 />
 <img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=69503&format=png&color=000000 />
+<img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=UGrLCnKJf6Px&format=png&color=000000 />
 <img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=55O6KKA9CyIA&format=png&color=000000 />
 <img align="left" height="32" width="32" src=https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000 />
 <br/>
