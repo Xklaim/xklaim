@@ -21,6 +21,9 @@ I am an aspiring programmer and passionate game and web-developer from Earth, de
 ![Python](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=yellow)
 ![NPM](https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-blue?style=for-the-badge&logo=godot&logoColor=white)
+
 
 ### Tools
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
