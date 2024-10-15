@@ -42,6 +42,8 @@ I am an aspiring programmer and passionate game and web-developer from Earth, de
 - Game Development
 - Full-stack Development
 - Architectural Design
+- 3D Modeling & Animation
+- Design
 ---
 <!---
 ### 💼 Projects
