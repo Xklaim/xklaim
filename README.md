@@ -40,9 +40,9 @@ I am an aspiring programmer and passionate game and web-developer from Earth, de
 <!---
 ### 💼 Projects
 Here are some of my key projects:
-- **[Your Project Name](link_to_project)**: i will upload a project here
-- **[Your Game Studio: ENVY](link)**: Aiming to create engaging gaming experiences with innovative gameplay mechanics...or you know something like that..
-- **[Your Architectural Work](link_to_architecture_project)**: ill upload this once it is completed
+- **[someOfMyProjects](link_to_project)**: i will upload a project here
+- **[myToBeMadeGameStudio: ENVY](link)**: Aiming to create engaging gaming experiences with innovative gameplay mechanics...or you know something like that..
+- **[myArchitecturalWork](link_to_architecture_project)**: ill upload this once it is completed
 -->
 
 ### 🌐 Connect with Me
@@ -54,7 +54,8 @@ Here are some of my key projects:
 - 📷 [Instagram](https://instagram.com/ipunitbhardwaj)
 
 ### 🎯 Fun Fact
-> I can talk about game development, movies, and startups for hours! I'm always up for a good discussion, so feel free to reach out!
+> I can talk about game development, movies, and literature for hours! <br/>
+> I'm always up for a good discussion, so feel free to reach out!
 
 ### 🔧 To-Do List
 - [ ] Complete development of my 2D multiplayer action game.
@@ -63,7 +64,7 @@ Here are some of my key projects:
 
 ---
 
-Thanks for visiting my profile! Looking forward to connecting with fellow developers and architects. Let's collaborate and create something amazing! 🚀
+Thanks for visiting my profile! Looking forward to connecting with fellow developers and visionaries. Let's collaborate and create something amazing! 🚀
 
 ![Static Badge](https://img.shields.io/badge/Made_with_❤️-by_Punit_Bhardwaj-black) <br/>
 ![Static Badge](https://img.shields.io/badge/or_simply-Xklaim-black)
