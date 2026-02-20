@@ -56,7 +56,7 @@ Here are some of my key projects:
 ### 🌐 Connect with Me
 - 📧 Email: [ixklaim@gmail.com](mailto:ixklaim@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ipunitbhardwaj)
-- 🌐 [Portfolio](link_to_your_portfolio)
+<!--- - 🌐 [Portfolio](link_to_your_portfolio)-->
 - 🐦 [Twitter](https://x.com/iXklaim)
 - 📷 [Instagram](https://instagram.com/iXklaim)
 - 📷 [Instagram](https://instagram.com/ipunitbhardwaj)
